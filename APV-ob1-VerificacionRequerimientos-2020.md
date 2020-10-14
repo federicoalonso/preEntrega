@@ -148,7 +148,7 @@ Categoría: Funcionalidad
     > El sistema debe correr sobre navegadores web, no es una aplicación de escritorio como para tener en cuenta el SO a la hora de la programación.
 
 
-## CORRECCION DE DEFECTOS EN LA VERIFICACIÓN
+## CORRECCIÓN DE DEFECTOS EN LA VERIFICACIÓN
 
 Al finalizar esta técnica, se corrigieron los requerimientos en los cuales se encontraron defectos y se redactaron de esta manera:
 
