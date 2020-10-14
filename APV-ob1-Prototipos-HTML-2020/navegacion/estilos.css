@@ -1,0 +1,48 @@
+.container-fluid{
+    padding: 0 !important;
+}
+.fondo{
+    height: 100vh;
+    background: linear-gradient(225deg, rgba(255, 196, 3, 0.212), rgba(255, 209, 6, 0.295)), url("./educacion-emocional-a-traves-de-la-musica-775x522.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 !important;
+    background-blend-mode: soft-light;
+    text-align: center;
+}
+
+.fondo.otroBack{
+    background: linear-gradient(225deg, rgba(255, 196, 3, 0.212), rgba(255, 209, 6, 0.295)), url("./boy-984293_640.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    background: white !important;
+    box-shadow: -1px 10px 40px -22px rgba(0,0,0,0.67);
+}
+
+.centro{
+    position: absolute;
+    color: white;
+    background: tomato;
+    margin: auto;
+    width: 50%;
+    left: 25%;
+    top: 40%;
+    box-shadow: -1px 10px 40px -22px rgba(0,0,0,0.67);
+    text-shadow: -1px 10px 40px -22px rgba(0,0,0,0.67);;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    text-align: center;
+    color: gray !important;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.collapse.navbar-collapse{
+    margin-left: 150px;
+}

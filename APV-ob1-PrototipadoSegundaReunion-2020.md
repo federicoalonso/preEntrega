@@ -1,5 +1,5 @@
 # VALIDACIÓN DE REQUERIMIENTOS
-Una vez obtenida la retroalimentación de la primera reunión, se trabajó modificar las observaciones recibidas en la primera reunión a efectos de ir refinado la necesidad del cliente de forma iterativa.
+Una vez obtenida la retroalimentación de la [primera reunión](/APV-ob1-PrototipadoPrimeraReunion-2020.md), se trabajó modificar las observaciones recibidas en la primera reunión a efectos de ir refinado la necesidad del cliente de forma iterativa.
 ## Correcciones al prototipo2
 ![Página de Gestión de Alumnos](/recursos/prot20.png "Página de Gestión de Alumnos")
 
@@ -36,4 +36,4 @@ ___Formulario 3___
 - En los formularios cambiar el texto del botón “Close” por “Cerrar”.
 - En el formulario 2, cambiar el diseño del video en miniatura junto al botón de eliminar. Al cliente no le pareció estético.
 
-En esta segunda instancia se obtuvo un feedback necesario para diseñar un prototipo evolutivo en HTML, el cual será utilizado en una tercera reunión.
+En esta segunda instancia se obtuvo un feedback necesario para diseñar un prototipo evolutivo en HTML, el cual será utilizado en una [tercera reunión](/APV-ob1-PrototipadoTerceraReunion-2020.md).
