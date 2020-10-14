@@ -1,12 +1,11 @@
 # Elicitación Ingeniería Reversa.
 ## Introducción
-El presente documento extrae requerimientos funcionales usando el método de Ingeniería Inversa en la página https://www.guitarraviva.com/, donde se analiza la tecnología de la posible competencia.
-Esta página fue mencionada por el cliente en la entrevista (documento:APV-ob1-ECLI2-2020), donde menciona que puede servir como modelo para extraer ideas.
+El presente documento extrae requerimientos funcionales usando el método de Ingeniería Inversa en la página [guitarraviva.com](http://www.guitarraviva.com), donde se analiza la tecnología de la posible competencia.
+Esta página fue mencionada por el cliente en la entrevista (documento:[APV-ob1-ENTREVISTA2-2020](/APV-ob1-ENTREVISTA2-2020.md)), donde menciona que puede servir como modelo para extraer ideas.
 ## Página para seleccionar cursos.
 ![Ventana de Acceso a Cursos](/recursos/ingRev01.png)
-~~~
-_Figura 1: Ventana de acceso a cursos._
-~~~
+___Figura 1: Ventana de acceso a cursos.___
+
 
 			 
 
