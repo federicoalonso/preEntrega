@@ -39,4 +39,4 @@ Preguntas
 
 - ¿Conoce algún sitio en internet que sirva como modelo para extraer ideas que se puedan aplicar en su emprendimiento   ?
 
-    > Si, de las páginas que he buscado en internet, la que más se aproxima a la idea que tenemos en mente con mi padre es la página [guitarraviva.com](http://www.guitarraviva.com). <a href="http://www.guitarraviva.com" target="blank">guitarraviva.com</a>
+    > Si, de las páginas que he buscado en internet, la que más se aproxima a la idea que tenemos en mente con mi padre es la página [guitarraviva.com](http://www.guitarraviva.com).
