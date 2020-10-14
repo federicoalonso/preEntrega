@@ -5,6 +5,7 @@ El presente documento extrae requerimientos funcionales usando el método de Ing
 Esta página fue mencionada por el cliente en la entrevista (documento:[APV-ob1-ENTREVISTA2-2020](/APV-ob1-ENTREVISTA2-2020.md)), donde menciona que puede servir como modelo para extraer ideas.
 ## Página para seleccionar cursos.
 ![Ventana de Acceso a Cursos](/recursos/ingRev01.png)
+
 ___Figura 1: Ventana de acceso a cursos.___
 
 **Rol**: Usuario autenticado.
@@ -12,6 +13,7 @@ ___Figura 1: Ventana de acceso a cursos.___
 **Descripción**: El sistema será capaz de mostrar en pantalla los cursos disponibles en la plataforma.
 ## Página para seleccionar clase de un curso previamente seleccionado.
 ![Ventana de acceso a clases](/recursos/ingRev02.png)
+
 ___Figura 2: Ventana de acceso a clases.___
 
 **Rol**: Usuario autenticado.
@@ -19,6 +21,7 @@ ___Figura 2: Ventana de acceso a clases.___
 **Descripción**: El sistema será capaz de mostrar en pantalla las clases disponibles de un curso anteriormente seleccionado. El usuario deberá hacer click sobre un botón para acceder a dicha clase. El sistema guarda con una marca las clases que el usuario completó la reproducción de la clase mayor a 90%.
 ## Página para la reproducción de un video correspondiente a una clase.
 ![Ventana de reproducción de videos](/recursos/ingRev03.png)
+
 ___Figura 3: Ventana de reproducción de videos.___
 
 **Rol**: Usuario autenticado.
@@ -28,6 +31,7 @@ ___Figura 3: Ventana de reproducción de videos.___
 El usuario previamente seleccionó una clase la cual corresponde al video mostrado en pantalla.
 ## Página para que los usuarios consulten dudas.
 ![Ventana de enviar consultas](/recursos/ingRev04.png)
+
 ___Figura 4: Ventana de enviar consultas.___
 
 **Rol**: Usuario autenticado.
@@ -35,6 +39,7 @@ ___Figura 4: Ventana de enviar consultas.___
 **Descripción**: El usuario podrá enviar mensajes para hacer consultas, El usuario debe seleccionar nombre, email y escribir un mensaje. Para finalizar deberá hacer click en enviar.
 ## Página informativa de preguntas frecuentes.
 ![Ventana de preguntas frecuentes](/recursos/ingRev05.png)
+
 ___Figura 5: Ventana de preguntas frecuentes.___
 
 **Rol**: Usuario no autenticado.
