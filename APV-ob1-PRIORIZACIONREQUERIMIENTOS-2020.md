@@ -13,3 +13,7 @@ Luego de elicitar los requerimientos, confeccionamos un listado de los 13 requer
 |2 |RF02   |Baja Usuario                  |13     |
 |3 |RF03   |Suspención temporal de usuario|8      |
 |4 |RF04   |Login                         |5      |
+|5 |RF05   |Alta Curso                         |1      |
+|6 |RF06   |Baja Cuero                    |12      |
+|7 |RF07   |Modificación Curso                    |6      |
+|8 |RF08   |Alta Video                 |4      |
