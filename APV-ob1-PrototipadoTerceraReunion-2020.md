@@ -13,7 +13,7 @@ ___Formulario 2___
 
 ___Formulario 3___
 
-El cliente experimentó con el prototipo tanto como [Usuario no Autenticado](http://htmlpreview.github.com/?https://github.com/federicoalonso/preEntrega/blob/main/APV-ob1-Prototipos-HTML-2020/index.html), [Alumno](/APV-ob1-Prototipos-HTML-2020/dashboardAlumno.html) y [Administrador](/APV-ob1-Prototipos-HTML-2020/adminDashboard.html), y se obtuvieron las observaciones que a continuación se detallan.
+El cliente experimentó con el prototipo tanto como [Usuario no Autenticado](http://htmlpreview.github.com/?https://github.com/federicoalonso/preEntrega/blob/main/APV-ob1-Prototipos-HTML-2020/index.html), [Alumno](http://htmlpreview.github.com/?https://github.com/federicoalonso/preEntrega/blob/main/APV-ob1-Prototipos-HTML-2020/dashboardAlumno.html) y [Administrador](http://htmlpreview.github.com/?https://github.com/federicoalonso/preEntrega/blob/main/APV-ob1-Prototipos-HTML-2020/adminDashboard.html), y se obtuvieron las observaciones que a continuación se detallan.
 
 Observaciones del cliente
 
