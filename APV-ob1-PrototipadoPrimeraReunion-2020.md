@@ -1,4 +1,4 @@
-# VALIDACION DE REQUERIMIENTOS
+# VALIDACIÓN DE REQUERIMIENTOS
 Para la validación de requerimientos se utilizó la técnica de prototipado, inicialmente se le presentó al cliente dos alternativas de interfaz de usuario:
 ## Prototipo 1
 ![Página de Inicio Usuario sin autenticar prototipo 1](/recursos/prot01.png "Página de Inicio Usuario sin autenticar prototipo 1")
