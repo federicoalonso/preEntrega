@@ -2,12 +2,7 @@
 ## Introducción
 El presente documento cuenta con un conjunto de preguntas destinadas a entrevistar a la madre de un alumno, la cual se encarga del pago y seguimiento de las clases de guitarra de su hijo. El objetivo es poder comprender el punto de vista de los usuarios del sistema, para tomar en cuenta su opinión en el diseño del mismo.
 ## Preguntas
-- ¿Hace cuánto tiempo su hijo/a toma clases de guitarra?
-    > Hace un par de meses.
-- ¿Ha notado un avance con respecto a las habilidades de su hijo en torno al instrumento en ese transcurso de tiempo?
-    > Muy poca, pero no ha sido mucho tiempo.
-- ¿Por qué decidió llevarlo a tomar clases?
-    > Creo que es bueno para los niños aprender música.
+- ¿Hace cuánto tiempo su hijo/a toma clases de guit
 - ¿Qué lo hizo elegir a este profesor en particular?
     > Vi un anuncio online y tenía buenas reseñas.
 - ¿Ha tenido dificultades de continuar las clases en el marco de la pandemia COVID-19?
