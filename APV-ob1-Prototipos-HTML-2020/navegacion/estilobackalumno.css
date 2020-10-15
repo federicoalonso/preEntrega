@@ -42,7 +42,7 @@
     border-radius: 50%;
 }
 
-.centro2 h1{
+.centro2 h2{
     margin-top: 75px;
 }
 
@@ -69,4 +69,8 @@
 
 table .boton{
     width: 12px;
+}
+
+img.hov:hover{
+    cursor: pointer;
 }
